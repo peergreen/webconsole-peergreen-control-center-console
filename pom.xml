@@ -15,6 +15,13 @@
   <version>1.0.0-SNAPSHOT</version>
   <packaging>bundle</packaging>
 
+  <scm>
+    <connection>scm:git:https://forge.peergreen.com/git/git/webconsole/peergreen-control-center-console.git</connection>
+    <developerConnection>scm:git:https://forge.peergreen.com/git/git/webconsole/peergreen-control-center-console.git</developerConnection>
+    <url>https://forge.peergreen.com/git/summary/?r=webconsole/peergreen-control-center-console.git</url>
+    <tag>HEAD</tag>
+  </scm>
+
   <dependencies>
     <!-- IPojo needs @Extension class to build components -->
     <!-- Web Console API should not be embedded by this bundle -->
