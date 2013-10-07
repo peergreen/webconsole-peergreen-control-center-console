@@ -7,7 +7,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-Embed-Dependency *;inline=true
+Embed-Dependency *;artifactId=!web-console-api;inline=true
 
 # Only for the Shell bundle
 DynamicImport-Package org.apache.felix.service.*;status=provisional
